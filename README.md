@@ -46,5 +46,5 @@ Feel free to star, fork and contribute.
 
 ##  Developer
 
-[](https://twitter.com/zakipamir)
+[Pamir Zaki](https://twitter.com/zakipamir)
 
