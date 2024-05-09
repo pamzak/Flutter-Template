@@ -1,4 +1,4 @@
-# 🔐 Flutter Advance ![GitHub stars](https://img.shields.io/github/stars/Flutter-Template/flutter_advance?style=social)
+#  Flutter Best Collection ![GitHub stars](https://img.shields.io/github/stars/Flutter-Template/flutter_advance?style=social)
 
  [Twitter Profile](https://twitter.com/zakipamir)
 
