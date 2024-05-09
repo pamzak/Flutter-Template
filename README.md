@@ -12,11 +12,11 @@ Feel free to star, fork and contribute.
 
 <img src="gifs/text_shimmer_wave.gif" width="50%" vspace="10" hspace="10"/>
 
-### Animated Slider || [Link to code](https://github.com/Flutter-Template/flutter_advance/blob/main/lib/animated_slider/view/animated_slider_page.dart) || [Youtube Tutorial](https://youtu.be/H8tUY9F0mwE)
+### Animated Slider || [Link to code](https://github.com/Flutter-Template/flutter_advance/blob/main/lib/animated_slider/view/animated_slider_page.dart)
 
 <img src="gifs/animated_slider.gif" width="50%" vspace="10" hspace="10"/>
 
-### Swipe to pay || [Link to code](https://github.com/Flutter-Template/flutter_advance/blob/main/lib/swipe_to_pay/view/swipe_to_pay_page.dart) || [Youtube Tutorial](https://youtu.be/H8tUY9F0mwE)
+### Swipe to pay || [Link to code](https://github.com/Flutter-Template/flutter_advance/blob/main/lib/swipe_to_pay/view/swipe_to_pay_page.dart) 
 
 <img src="gifs/slide_to_pay.gif" width="50%" vspace="10" hspace="10"/>
 
@@ -28,7 +28,7 @@ Feel free to star, fork and contribute.
 
 <img src="gifs/petal_menu.gif" width="50%" vspace="10" hspace="10"/>
 
-### Rainbow Sticks Animation || [Link to code](https://github.com/Flutter-Template/flutter_advance/blob/main/lib/rainbow_sticks_page.dart) || [Youtube Tutorial](https://youtu.be/6lkAo-_-IME)
+### Rainbow Sticks Animation || [Link to code](https://github.com/Flutter-Template/flutter_advance/blob/main/lib/rainbow_sticks_page.dart) 
 
 <img src="gifs/rainbow_sticks_animation.gif" width="50%" vspace="10" hspace="10"/>
 
